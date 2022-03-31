@@ -126,4 +126,10 @@ https://gayunkimm.github.io/portfolio/index.html
 
 
 
+### : :sparkling_heart: :sparkling_heart: 김가윤 :sparkling_heart: :sparkling_heart: 
+
+- email : gayoon109@gmail.com
+
+
+
 
