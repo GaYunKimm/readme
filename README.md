@@ -14,14 +14,21 @@ https://gayunkimm.github.io/portfolio/index.html
 
 ## 작업물에 관하여
 
-### 반응형
+### :sparkling_heart: 반응형
+
+
 
 ![1](https://user-images.githubusercontent.com/93551008/160962488-d91e8575-75b8-4d05-999f-20be2482dc69.gif)
 
 - 다양한 pc, mobile 사이즈를 대응하며, 반응형으로 제작되었습니다.
 
+  
+  
+  
+  
+### :sparkling_heart: 다크모드
 
-### 다크모드
+
 
 ![2](https://user-images.githubusercontent.com/93551008/160962500-f143df31-73bf-40ac-91ba-6912851484e0.gif)
 
@@ -34,29 +41,29 @@ https://gayunkimm.github.io/portfolio/index.html
 ## [index 페이지 바로가기](https://gayunkimm.github.io/portfolio/index.html)
 
 
-### header 스크롤 모드
+### :sparkling_heart: header 스크롤 모드
 
-![3](https://user-images.githubusercontent.com/93551008/160962665-c7fc1c20-f2b5-4890-b959-270f57f674d1.gif)
+![3](https://user-images.githubusercontent.com/93551008/160963816-2e843c8d-1dbf-4f49-9e02-475d6974aad6.gif)
 
 - 스크롤 상,하를 판별하여 메뉴 위치가 변경되게 적용하였습니다.
 
 
-### 스와이프 슬라이드
+### :sparkling_heart: 스와이프 슬라이드
 
-![4](https://user-images.githubusercontent.com/93551008/160962721-73cbe0b8-b4e3-466f-8c43-8db80f21fece.gif)
+![4](https://user-images.githubusercontent.com/93551008/160963960-de0ac984-32c3-4467-8f90-6d296c61f686.gif)
 
 - 하나의 슬라이드 class로 이벤트가 적용되게 했습니다.
 - wheel이벤트, 터치 드래그 이벤트로 슬라이드를 컨트롤 할 수 있습니다.
 
 
-### live
+### :sparkling_heart: live
 
 ![5](https://user-images.githubusercontent.com/93551008/160963008-30bb7e91-0ec9-4ea8-9686-47b5e79808c9.gif)
 
 - y스크롤, x스크롤의 특정영역에 오면 해당 컨텐츠의 동영상이 재생됩니다.
 
 
-### Infinite carousel
+### :sparkling_heart: Infinite carousel
 
 ![6s](https://user-images.githubusercontent.com/93551008/160963087-70a28af0-d7ad-45c7-8db6-cf555556b706.gif)![6st](https://user-images.githubusercontent.com/93551008/160963073-e54ba718-34c4-4f5a-b3ef-30fac9aee052.gif)
 - 모드 : 무한 슬라이드 모드
@@ -64,7 +71,7 @@ https://gayunkimm.github.io/portfolio/index.html
 - 터치 및 다음,이전 버튼으로 슬라이드를 제어할 수 있습니다.
 
 
-### pop up
+### :sparkling_heart: pop up
 
 ![7](https://user-images.githubusercontent.com/93551008/160963152-dac40f3a-42dc-45d9-bde5-b9e8108daf61.gif)
 - 메뉴, 검색, 최근본은 팝업 형태로 제작되었습니다.
@@ -77,7 +84,7 @@ https://gayunkimm.github.io/portfolio/index.html
 
 ![10](https://user-images.githubusercontent.com/93551008/160963268-972737e3-bad7-40f0-bccd-b70a68d85e83.gif)
 
-### 상세화면 / 컨트롤 화면 토글
+### :sparkling_heart: 상세화면 / 컨트롤 화면 토글
 
 ![8livetoggle](https://user-images.githubusercontent.com/93551008/160963156-bce33b5d-d57d-4284-880e-3999637bb68a.gif)
 
@@ -85,7 +92,7 @@ https://gayunkimm.github.io/portfolio/index.html
 - 컨트롤화면 : 동영상 재생토글 , 동영상 프로세스 바 
 로 구성되어 있습니다.
 
-### 동영상 컨트롤러
+### :sparkling_heart: 동영상 컨트롤러
 
 ![9](https://user-images.githubusercontent.com/93551008/160963218-628b810b-d081-48d1-b027-01961e88535a.gif)
 - 프로세스바를 단일 클릭시 해당 재생타임으로 이동합니다.
@@ -94,7 +101,7 @@ https://gayunkimm.github.io/portfolio/index.html
 - 재생/일시정지 토글로 동영상을 제어합니다.
 
 
-### 동영상 사운드 뮤트 토글 버튼
+### :sparkling_heart: 동영상 사운드 뮤트 토글 버튼
 
 - 브라우저 정책상 뮤트된 상태가 아니면 동영상이 재생되지 않기 때문에 뮤트를 기본설정으로 적용하였습니다.
 - 상세화면의 상단 뮤트버튼을 클릭시 사운드 뮤트를 제어합니다.
@@ -102,11 +109,12 @@ https://gayunkimm.github.io/portfolio/index.html
  
 ---
 
-
+ 
+ 
 ## [content 페이지 바로가기](https://gayunkimm.github.io/portfolio/detail-view.html)
 
 
-### 스크롤 이벤트
+### :sparkling_heart: 스크롤 이벤트
 
 ![11](https://user-images.githubusercontent.com/93551008/160963366-92a9c8b9-eea8-445d-8f65-c0e8c3da29c5.gif)
 
