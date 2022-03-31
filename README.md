@@ -124,12 +124,13 @@ https://gayunkimm.github.io/portfolio/index.html
 - 특정위치에 가면 header 스크롤 이벤트가 적용됩니다.
 
 
+----
 
-
-### : :sparkling_heart: :sparkling_heart: 김가윤 :sparkling_heart: :sparkling_heart: 
+### :sparkling_heart: :sparkling_heart: 김가윤 연락처 :sparkling_heart: :sparkling_heart: 
 
 - email : gayoon109@gmail.com
 
 
 
 
+---
